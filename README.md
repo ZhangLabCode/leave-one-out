@@ -54,21 +54,4 @@ The application will launch a desktop window with the following workflow:
 
 ---
 
-## 📂 Project Structure
-```
-.
-├── version6.5.py       # Main application code
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
-```
 
----
-
-## ⚖️ License
-This project is released under the **MIT License** (you can change this if you prefer GPL, Apache 2.0, etc.).
-
----
-
-## 🙌 Contributions
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork the repo and submit pull requests.
