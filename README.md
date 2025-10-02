@@ -16,27 +16,7 @@ The tool provides a workflow for importing, stacking, filtering, fitting (quadra
 
 ---
 
-## 📦 Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
-   ```
-
-2. (Optional but recommended) Create a virtual environment:
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate   # Linux/macOS
-   .venv\Scripts\activate      # Windows
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
 
 ## 🚀 Usage
 
